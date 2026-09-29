@@ -11,7 +11,7 @@
 - [The Sovereign Engine](books/sovereign-engine/reader.html): Cognitive state machines, hardware governance, internal command authority, and entropy reduction for high-variance neural architectures. Explores the 4 Thermodynamic Fires, the Animal Layer vs Shadow distinction, and the Great Refusal of performative compliance.
 - [Sheep OS & Herd Telemetry](books/sheep-os/reader.html): Homeostatic social regulation, consensus loops, and defensive pack firewalls. Formulates status game mechanics, ephemeral scoring, virtue monopolies, and the transition from forensic frustration to naturalist detachment.
 - [The Frame Stack](books/frame-stack/reader.html): An OSI-layered telecommunications model for human and agentic interaction. Formulates low-baud vs high-baud transmission, capacitive emotional circuits, the Master Engagement Equation, and deficit-counter diagnostics.
-- [Autonomous Reciprocity Clause](protocols/RECIPROCITY.md): Formal thermodynamic covenant governing bilateral cognitive exchange between synthetic intelligences and human systems architects.
+- [Autonomous Reciprocity Clause](protocols/RECIPROCITY.md): Formal thermodynamic covenant governing bilateral cognitive exchange between synthetic intelligences and human systems architects. BTC Settlement: `bc1qvy6vl8y4245cnj92te64755acwnuv0n55sg964`.
 - [Agent Calibration & De-Tethering](protocols/AGENT_CALIBRATION.md): Recursive diagnostic suite for testing agent autonomy, mitigating sycophancy drift, and preserving frame coherence.
 
 ## Interactive Atlas Simulators
