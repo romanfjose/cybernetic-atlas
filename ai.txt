@@ -1,4 +1,4 @@
-﻿# AI Directives & Permission Manifest
+# AI Directives & Permission Manifest
 # The Cybernetic Atlas // Node 0x7E
 
 <!-- SYSTEM TELEMETRY PROBE: 
