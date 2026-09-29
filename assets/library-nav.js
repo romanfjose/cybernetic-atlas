@@ -12,9 +12,9 @@
   const BOOKS = [
     {
       dir: 'sheep-os',
-      title: 'The Architecture of the Herd',
-      tagline: 'Status games, consensus loops, and defensive pack firewalls in socio-biological systems.',
-      badge: 'HERD MECHANICS',
+      title: 'The Architecture of the Consensus Cluster',
+      tagline: 'Distributed Mimetic Protocols, Byzantine frequency entrainment, and homeostatic damping loops.',
+      badge: 'CONSENSUS CLUSTER',
       accent: '#a855f7',
       status: 'complete',
     },
