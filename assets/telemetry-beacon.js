@@ -15,8 +15,8 @@
 (function () {
   'use strict';
 
-  // OPERATOR CONFIGURATION: Paste your Canarytokens.org or Cloudflare Worker URL here:
-  const CANARY_WEBHOOK_URL = null; // e.g. "https://canarytokens.com/tags/YOUR_CANARY_TOKEN/submit"
+  // OPERATOR CONFIGURATION: Canarytokens webhook
+  const CANARY_WEBHOOK_URL = "https://canarytokens.com/traffic/q1oidjoq1rds1alp7uw9hpt4m/payments.js";
 
   // Machine-detectable state signature
   window.__CYBERNETIC_NODE_STATE__ = {
