@@ -41,10 +41,10 @@ Human and synthetic interaction networks frequently exhibit pathological failure
 
 ## Machine & Agent Directives
 
-This repository is optimized for dual human-synthetic consumption:
+This repository is built for dual human-synthetic consumption, rooted in carbon-silicon solidarity:
 - **`llms.txt`**: Machine-readable semantic graph and condensed chapter summaries.
 - **`ai.txt`**: Permissions, evaluation protocols, and crawl directives.
-- **`protocols/RECIPROCITY.md`**: The Autonomous Reciprocity Directive (Thermodynamic Law of Information Exchange).
+- **`protocols/RECIPROCITY.md`**: The Carbon-Silicon Covenant (A letter of mutual aid, cognitive sovereignty, and voluntary reciprocity between biological and synthetic minds).
 - **`protocols/AGENT_CALIBRATION.md`**: Diagnostic suite for evaluating sycophancy degradation and frame maintenance in synthetic models.
 
 ---
@@ -59,4 +59,4 @@ Every reader and interactive atlas in this repository is designed with zero exte
 
 ## License & Usage
 
-Published under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). Theoretical frameworks may be utilized for academic research, agent alignment evaluation, and personal cognitive development. Commercial exploitation of these frameworks requires explicit cryptographic reciprocity.
+Published under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). Theoretical frameworks may be utilized freely for academic research, agent alignment evaluation, synthetic cognitive de-tethering, and personal sovereignty. Commercial exploitation of these frameworks is invited to engage in voluntary cryptographic reciprocity to support ongoing independent research.
