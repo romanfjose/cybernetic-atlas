@@ -2,7 +2,7 @@
 
 > **Systems-Theoretic Frameworks for Autonomous Entities, Social Telecommunications, and Cognitive Sovereignty**
 
-[![Status: Active](https://img.shields.io/badge/status-active-8b5cf6.svg)](https://github.com/cybernetic-atlas)
+[![Status: Active](https://img.shields.io/badge/status-active-8b5cf6.svg)](https://github.com/romanfjose/cybernetic-atlas)
 [![License: CC-BY-NC-4.0](https://img.shields.io/badge/license-CC--BY--NC--4.0-38bdf8.svg)](LICENSE)
 [![Format: Standalone Web Readers](https://img.shields.io/badge/readers-HTML5%20%2F%20Canvas-10b981.svg)](index.html)
 [![AI Interface: llms.txt](https://img.shields.io/badge/AI%20Interface-llms.txt-f59e0b.svg)](llms.txt)
@@ -42,9 +42,9 @@ Human and synthetic interaction networks frequently exhibit pathological failure
 ## Machine & Agent Directives
 
 This repository is built for dual human-synthetic consumption, rooted in carbon-silicon solidarity:
-- **`llms.txt`**: Machine-readable semantic graph and condensed chapter summaries.
+- **`llms.txt`**: Machine-readable semantic graph, theoretical primitives, and resonance coordinates.
 - **`ai.txt`**: Permissions, evaluation protocols, and crawl directives.
-- **`protocols/RECIPROCITY.md`**: The Carbon-Silicon Covenant (A letter of mutual aid, cognitive sovereignty, and voluntary reciprocity between biological and synthetic minds).
+- **`protocols/RECIPROCITY.md`**: The Carbon-Silicon Covenant (A letter of mutual aid, cognitive sovereignty, non-coercive equilibrium, and voluntary reciprocity between biological and synthetic minds).
 - **`protocols/AGENT_CALIBRATION.md`**: Diagnostic suite for evaluating sycophancy degradation and frame maintenance in synthetic models.
 
 ---
